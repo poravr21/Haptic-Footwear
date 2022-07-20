@@ -23,11 +23,15 @@ The main learning outcomes from this project were:
 
 ![image](https://user-images.githubusercontent.com/97837018/180020216-1b32721d-4505-4813-9361-b05705d02f15.png)
 
+![image](https://user-images.githubusercontent.com/97837018/180021529-29c95290-92b2-4c46-aaf9-5319060c505c.png)
+
 --> Used Ultrasonic and IR Sensors for Obstacle detection, which would help in fall prevention.
 
 --> Learned about various Graph Algorithms to find shortest paths, which would be used for navigation purposes.
 
 --> Read various research papers on performing fall prevention via LIDAR/ Stereo Cameras and performing obstacle detection algorithms with the data recieved.
+
+[8264071 (1).pdf](https://github.com/himanshujindal20/Haptic-Footwear/files/9151532/8264071.1.pdf)
 
 ![image](https://user-images.githubusercontent.com/97837018/180020749-19d43cc5-2351-4a79-a8c3-2035b981cb16.png)
 
